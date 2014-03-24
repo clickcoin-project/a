@@ -1,0 +1,9 @@
+Building ClickCoin
+
+See doc/readme-qt.rst for instructions on building clickcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ClickCoin.
+
+See doc/build-*.txt for instructions on building clickcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of ClickCoin.
